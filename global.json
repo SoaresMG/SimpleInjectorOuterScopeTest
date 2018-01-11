@@ -1,0 +1,6 @@
+﻿{
+  "projects": [ "Connector.Server", "Connector.Database", "Connector.SDK", "Connector.UI" ],
+  "sdk": {
+    "version": "1.0.0-preview2-003131"
+  }
+}
